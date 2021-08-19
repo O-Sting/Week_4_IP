@@ -4,6 +4,7 @@
 #### By **{Oliver Ngugi}**
 ## Description
 {The project aims to solve a research question by processing stations data to understand electric car usage over time }
+{The language used is Python. The project is managed using the kanbas software manager Jira. the data report follows the CRISP-DM methodology }
 ## Setup/Installation Requirements
 *  the research question is : 
  #Identify the most popular hour of the day for picking up a shared electric car (Bluecar) in the city of Paris over the month of April 2018 usingdata provided by the an electric car company 
@@ -11,7 +12,9 @@ The project is run google colab as of current version thus no further requiremen
 ## Known Bugs
 
 ## Technologies Used
-{The language used is Python. The projrct is managed using the kanbas software manager Jira. the data reportfollows the CRISP-DM methodology }
+Google Colab Notebooks
+Jira using Crisp-dm methodology
+Github desktop, git_bash and git_gui
 ## Support and contact details
 {questions to be forwarded to my email: olivermaina17@gmail.com}
 ### License
